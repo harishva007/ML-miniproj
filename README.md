@@ -1,5 +1,4 @@
 # ML-miniproj
-# ML-miniproj
 This is my repository for Machine Learning programs in Python showing mini-projects demonstrating the use of Machine Learning in statistical data.
 Each folder covers different topics and subtopics of Machine Learning in an easy way with corresponding code and sample data to be analyzed.
 
